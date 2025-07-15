@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+  font-family: 'Poppins', sans-serif;
+  background-color: #fcf5f7; /* ✅ Corrected here */
+  /* You can also use a gradient like this: */
+  /* background: radial-gradient(rgba(215,126,126,0.6), rgba(225,136,136,0.3), rgba(166,224,183,0.3)); */
+}
